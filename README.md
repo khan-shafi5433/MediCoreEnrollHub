@@ -1,10 +1,10 @@
-# JASU Consultancy
-
+# MediCoreEnroll 
+(earlier it was named as JASU Consultancy but due to copyright issues the repo name has been changed to MediCoreEnroll Consultancy)
 MBBS Consultancy Platform for Jalal-Abad State University, Kyrgyzstan
 
 ## Project Overview
 
-JASU Consultancy is a full-stack web application designed to streamline the MBBS admission process for Jalal-Abad State University in Kyrgyzstan. The platform provides a comprehensive solution for students to apply, track their applications, upload documents, and communicate with the consultancy team.
+MediCoreEnroll Consultancy is a full-stack web application designed to streamline the MBBS admission process for Jalal-Abad State University in Kyrgyzstan. The platform provides a comprehensive solution for students to apply, track their applications, upload documents, and communicate with the consultancy team.
 
 ## Tech Stack
 
